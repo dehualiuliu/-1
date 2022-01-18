@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>我的计导作业</title>
+		<style type="text/css">
+			#hong
+			{	color:red;
+				font-family:微软雅黑;
+				font-size:30px;
+				font-weight:bold;
+				font-style:italic;
+			}
+			#div1
+			{
+			width:100px;
+			height:60px;
+			background-color:red;
+			}
+		</style>
+	</head>
+	<body>
+		<div id="hong">
+				背景音乐（天空之城）：
+				<audio autoplay="autoplay" controls="controls" loop="loop" preload="auto"
+				src="./天空之城.mp3">
+				<hr>		
+		</div>
+		<div>
+			<center>
+			 	<img style="border-radius:0.3125em;
+				box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"
+ 				src="./关系图.png">
+				<div style="color:orange; border-bottom: 1px solid #d9d9d9;
+				display: inline-block;
+				color: #999;
+				padding: 2px;">计算机课程关系图</div>
+			</center>
+			<hr>
+		</div>
+		<div>
+			<h2>	
+				一些计算机课程学习的参考资料：
+			</h2>
+			<p>	
+				<em><a href="http://202.117.36.109/moodle18/">西交计算机教学实验中心</a></em><b>(西交平台，你值得拥有！)</b><br/>
+				<a href="https://www.dotcpp.com/course/88">数据结构与算法教程</a><br/>
+				<a href="https://www.bilibili.com/video/BV1w741177Uv/">形式语言与编译</a>（欢迎报考B站大学）<br/>
+				<a href="www.codepub.com">源码网</a><br/>
+				<a href="www.csdn.net">程序员之家</a><br/>
+				<a href="https://www.cnblogs.com/jmsjh/p/7762259.html">数据库</a><br/>
+		              		《.NET Framework应用程序开发》书籍号: 2012 TP393.09/432
+			</p>
+			<hr>
+		</div>
+		<div>
+			<h2>
+  				我对计算机专业的认识：
+			</h2>
+			<dl>
+				<dt>①知识量丰富：</dt>
+				<dd>离散数学、数据结构与算法、各种编程语言......</dd>
+				<dt>②能力需求高：</dt>
+				<dd>数理逻辑能力、实践动手能力、想象力</dd>
+				<dt>③前景广阔：</dt>
+				<dd>人工智能、VR、智能眼镜、无人驾驶、区块链、大数据......</dd>
+				<dt>④“最”专业：</dt>
+				<dd>最具青春活力、最能与时俱进、最重创新实践、最有共享精神</dd>
+			</dl>
+			<hr>		
+		</div>
+		<div>
+			<table>
+				<caption><h2>我的学业规划</h2></caption>
+				<thead>
+					<tr>
+						<th>时期</th>
+						<th>计划</th>
+					</tr>
+				</thead>
+				<tbody>
+				<tr>
+					<td>大一</td>
+					<td>巩固基础，学习多种多样的选修课程，扩展视野，丰富知识面。</td>
+				</tr>
+				<tr>
+					<td>大二</td>
+					<td>学习专业课程知识，自主学习各种编程语言，培养计算机思维与逻辑方法。</td>
+				</tr>
+				<tr>
+					<td>大三</td>
+					<td>参与编程比赛、计算机创新项目，学习前沿计算机知识。参与实验室学术研究，在网络社区学习讨论</td>
+				</tr>
+				<tr>
+					<td>大四</td>
+					<td>进行实习，进入到计算机行业工作中，获取实业知识，积累工作经验。</td>
+				</tr>
+				</tbody>
+			</table>
+		</div>
+		<div id="div1">背景设置尝试</div>
+	</body>
+<html/>
